@@ -1,1 +1,1 @@
-# ML-technique--to-foecast--sales
+# ML-techniques--to-forecast--sales
