@@ -1,4 +1,4 @@
-# RandomForest and XGboost--to-forecast--sales
+# RandomForest and XGBoost--to-forecast--sales
 Regression to forecast weekly sales value
 # Contents
 - [Overview](###Overview)
